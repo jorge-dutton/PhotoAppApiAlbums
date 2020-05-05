@@ -1,7 +1,7 @@
 ######################
 # Project Specific
 ######################
-/albums-ws*.log
+/albums-ws*.log*
 /build/www/**
 /src/test/javascript/coverage/
 /src/test/javascript/PhantomJS*/
